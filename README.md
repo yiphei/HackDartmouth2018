@@ -1,5 +1,5 @@
-#FyreFite - Mobile Shooting Game leveraging Google Maps API
+# FyreFite - Mobile Shooting Game
 
-# HackDartmouth2018
+# Winner of HackDartmouth2018
 
-Project for HackDartmouth IV. For more information on the project, please visit the following link: https://devpost.com/software/fyrefite
+Winning Project for HackDartmouth IV 2018. For more information on the project, please visit the following link: https://devpost.com/software/fyrefite
